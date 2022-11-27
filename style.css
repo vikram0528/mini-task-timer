@@ -1,0 +1,42 @@
+.timer{
+	width:400px;
+	border:2px solid black;
+}
+.outer{
+	display:flex;
+}
+.btninner{
+	width:400px;
+	display:flex;
+	justify-content:space-between;
+}
+.inner{
+	
+width:200px;
+padding:20px;
+text-align:center;
+color:black;
+border:2px solid black;
+font-size: 30px;
+} 
+.button{
+	width:100px;
+	padding:20px;
+	color:black;
+	background-color:gray;
+	display:inline-block;
+	font-size: 20px;
+}
+.button1{
+	width:200px;
+	padding:20px;
+	color:black;
+	background-color:gray;
+	display:inline-block;
+	font-size: 20px;
+}
+.main{
+	width:400px;
+	display:flex;
+	flex-wrap:nowrap;
+}
